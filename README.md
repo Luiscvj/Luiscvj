@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscvj&label=Profile%20views&color=0e75b6&style=flat" alt="luiscvj" /> </p>
 
-- 🌱 I’m currently learning **C#,EFCore,MySql**
+- 🌱 I’m currently learning **C#,Razor,ASP.NET MVC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
